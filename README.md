@@ -2,12 +2,7 @@
 
 ###
 
-<div align="center">
-</div>
-
-###
-
-<p align="left">Norwegian 22 year old living in Oslo, currently doing a Bachelors degree in Computer Science: Language Technology at the University of Oslo.<br><br>An exciting blend of CS topics like Programming, Logic, Artificial Intelligence and Natural Language Processing make up my degree, and I am fascinated by what the future of tech has in store for us.<br><br>My tech:</p>
+<p align="left">🕺Norwegian 22 year old living in Oslo, currently doing a Bachelors degree in Computer Science: Language Technology at the University of Oslo.<br><br>An exciting blend of CS topics like Programming, Logic, Artificial Intelligence and Natural Language Processing make up my degree, and I am fascinated by what the future of tech has in store for us.<br><br>🌟My tech:</p>
 
 ###
 
@@ -31,7 +26,7 @@
 
 ###
 
-<p align="left">Reach me at:</p>
+<p align="left">📨 Contact me:</p>
 
 ###
 
