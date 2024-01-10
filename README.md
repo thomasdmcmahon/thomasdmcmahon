@@ -1,10 +1,53 @@
-<h1 align="center">Hi 👋, I'm Thomas Dalen McMahon</h1>
-<h3 align="center">Norwegian based in Oslo, and currently doing a Bachelors degree in Computer Science: Language Technology at the University of Oslo. My university program is an exciting blend of CS with focus on Programming and Code, Natural Language Processing and Artificial Intelligence.</h3>
+<h2 align="left">👋Hey, I'm Thomas, welcome to my space!</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
 
-- 📫 You can reach me on email at **thomasd.mcmahon@outlook.com** or via my LinkedIn:
-<p align="left">
-<a href="https://www.linkedin.com/in/thomas-dalen-mcmahon-977320233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thomas-dalen-mcmahon-977320233/" height="30" width="40" /></a>
-</p>
+<div align="center">
+</div>
+
+###
+
+<p align="left">Norwegian 22 year old living in Oslo, currently doing a Bachelors degree in Computer Science: Language Technology at the University of Oslo.<br><br>An exciting blend of CS topics like Programming, Logic, Artificial Intelligence and Natural Language Processing make up my degree, and I am fascinated by what the future of tech has in store for us.<br><br>My tech:</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="35" alt="windows8 logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="35" alt="pytorch logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+</div>
+
+###
+
+<p align="left">Reach me at:</p>
+
+###
+
+<div align="left">
+  <a href="thomasd.mcmahon@outlook.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="47" height="35" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/thomas-dalen-mcmahon-977320233" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/thomasdmcmahon/thomasdmcmahon/output/snake.svg" alt="Snake animation" />
+
+###
