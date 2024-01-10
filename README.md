@@ -36,18 +36,12 @@
 ###
 
 <div align="left">
-  <a href="thomasd.mcmahon@outlook.com" target="_blank">
+  <a href="https://mailto:thomasd.mcmahon@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="47" height="35" alt="microsoft-outlook logo"  />
   </a>
   <a href="https://www.linkedin.com/in/thomas-dalen-mcmahon-977320233" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/thomasdmcmahon/thomasdmcmahon/output/snake.svg" alt="Snake animation" />
 
 ###
