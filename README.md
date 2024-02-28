@@ -1,8 +1,10 @@
-<h2 align="left">👋Hey, I'm Thomas, welcome to my space!</h2>
+<h2 align="left">👋Hey I'm Thomas, welcome to my space!</h2>
 
 ###
 
-<p align="left">🕺Norwegian 22 year old living in Oslo, currently doing a Bachelors degree in Computer Science: Language Technology at the University of Oslo.<br><br>An exciting blend of CS topics like Programming, Logic, Artificial Intelligence and Natural Language Processing make up my degree, and I am fascinated by what the future of tech has in store for us.<br><br>🌟My tech:</p>
+<p align="left">Passionate Norwegian 22 year old living in Oslo current pursuing a Bachelor's degree in Computer Science: Language Technology (UiO) 🇳🇴
+  
+An exciting mix of CS courses in the fields of Programming, Logic, Artificial Intelligence and Natural Language Processing make up the majority of my degree alongside supplementary courses in lingustics and human language. I'm excited for what the future of tech has in store for us, and am actively seeking opportunites to learn, contribute and collaborate. Feel free to connect and explore!<br><br>🌟My tech:
 
 ###
 
